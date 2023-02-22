@@ -2,13 +2,13 @@
 
 ## To do list (detailed guide)
 
-- [ ] week1
-- [ ] week2
-- [ ] week3
+- [x] week1
+- [x] week2
+- [x] week3
 - [x] week4
-- [ ] week5
-- [ ] midterm
-- [ ] week7
+- [x] week5
+- [x] midterm
+- [x] week7
 
 ## เกี่ยวกับ Repository นี้
 Repository นี้สร้างขึ้นเพื่อเป็นแนวทางในการแก้โจทย์วิชา Problem Solving โดยไม่หวังผลตอบแทน ซึ่งเจ้าของ Repository นี้จะไม่รับประกันว่า จะทำได้ครบทุกข้อ (โดยเฉพาะ optional) แต่จะพยายามทำให้ได้มากที่สุด
