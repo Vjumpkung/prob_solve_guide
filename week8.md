@@ -23,4 +23,4 @@
 - ใช้ merge sort แล้วนับจำนวน inversion
 
 ### ioi_maintain (Minimum Spanning Tree)
-- แนะนำให้ใช้ kruskal เพราะว่าเร็วกว่ามากๆ และควรจะทำให้ Minimum spanning tree จบภายใน O(n)
+- แนะนำให้ใช้ kruskal เพราะว่าเร็วกว่ามากๆ และควรจะทำให้ Minimum spanning tree จบภายใน O(n) n หมายถึงจำนวน node
