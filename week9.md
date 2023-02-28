@@ -9,7 +9,7 @@
 - elephant
 - mars
 - tarotora
-- fin_star
+- fin_star (optional)
 
 ### fin60_climb (optional)
 - ข้อนี้คือ shortest path จากมุมซ้ายล่างไปยังมุมขวาบนใช้ Dijkstra มาประยุกต์
