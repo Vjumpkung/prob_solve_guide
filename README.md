@@ -2,16 +2,15 @@
 
 ## To do list (detailed guide)
 
-- [x] week1
-- [x] week2
-- [x] week3
-- [x] week4
-- [x] week5
-- [x] midterm
-- [x] week7
-- [x] week8
-- [x] week9
-- [x] week10
+- [x] week1 (intro to problem solving)
+- [x] week2 (linked-list)
+- [x] week3 (graph)
+- [x] week4 (graph)
+- [x] week5 (shortest path)
+- [x] week7 (MST)
+- [x] week8 (divide and conquer)
+- [x] week9 (Dynamic Programming)
+- [x] week10 (Dynamic Programming)
 
 ## เกี่ยวกับ Repository นี้
 Repository นี้สร้างขึ้นเพื่อเป็นแนวทางในการแก้โจทย์วิชา Problem Solving โดยไม่หวังผลตอบแทน ซึ่งเจ้าของ Repository นี้จะไม่รับประกันว่า จะทำได้ครบทุกข้อ (โดยเฉพาะ optional) แต่จะพยายามทำให้ได้มากที่สุด
